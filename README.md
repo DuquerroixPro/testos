@@ -1,6 +1,6 @@
 ## projet sioCrawler ##
 
-présentation du projet : le but est de réaliser un jeu de rôle permettant ... multi joueur permettant aux 
+présentation du projet : le but est de réaliser un jeu de rôle permettant un jeu peu massivement multi joueur permettant aux 
 étudiants du bts sio de se divertir pendant les heures de cantine mais aussi d'améliorer leurs compétences en
 développement 
 
@@ -15,13 +15,13 @@ Le développement tourne autour de 3 grands parties
 
 1. L'inscription en ligne
 2. développement du jeu en lui même permettant l'exploitation d'un labyrinthe
-3. la sauvegarde des personnages et du ... du jeu
+3. la sauvegarde des personnages et du commerce du jeu
 
-|  **développement**  | **langages**|            **technique de programmation**           |
-|---------------------|-------------|-----------------------------------------------------|
-|inscription en ligne |php,Mysql    |développement web ... avec Code Igniter              |
-|sio crawler le jeu   |c#           |programmation objet, tests unitaires                 |
-|sauvegarde du ...    |c#, mysql    |programmation procédural procédures stockées en mysql|
+|     **développement**    | **langages**|            **technique de programmation**           |
+|--------------------------|-------------|-----------------------------------------------------|
+|inscription en ligne      |php,Mysql    |développement web ... avec Code Igniter              |
+|sio crawler le jeu        |c#           |programmation objet, tests unitaires                 |
+|sauvegarde du commerce    |c#, mysql    |programmation procédural procédures stockées en mysql|
 
 **L'inscription en ligne**
 
