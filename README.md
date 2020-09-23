@@ -27,21 +27,22 @@ Le développement tourne autour de 3 grands parties
 
 site web permettant à un joueur de s'inscrire en ligne le projet prévoit le principe suivant pour l'inscription en ligne
 
-![acteurFluxInscription](P:\imagesTpGit\acteurFluxInscription.PNG)
+![acteurFluxInscription](https://user-images.githubusercontent.com/63001648/93993255-cfb2b400-fd8e-11ea-95aa-9f7fd88d2b87.PNG)
 
 ### **sio crawler le jeu** ###
 
 le joueur possède les fonctions suivantes
 
-![useCasePersonnage](P:\imagesTpGit\useCasePersonnage.PNG)
+![useCasePersonnage](https://user-images.githubusercontent.com/63001648/93993253-cf1a1d80-fd8e-11ea-9a93-e4e0d21ce6e1.PNG)
 
 **les classes développées**
 
-![diagrammeClassePersonnage](P:\imagesTpGit\diagrammeClassePersonnage.PNG)
+![diagrammeClassePersonnage](https://user-images.githubusercontent.com/63001648/93993251-ce818700-fd8e-11ea-84cf-729f440d9c5d.PNG)
 
 **Sauvegarde du contexte**
 
 La sauvegarde du contexte se fera dans la base de données
 
-![mcdSauvegarde](P:\imagesTpGit\mcdSauvegarde.PNG)
+![mcdSauvegarde](https://user-images.githubusercontent.com/63001648/93993252-cf1a1d80-fd8e-11ea-85b3-8d0eccf5703c.PNG)
+
 
